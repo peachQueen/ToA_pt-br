@@ -7,3 +7,5 @@
  </ul>
  
  ## Em estágios iniciais!!
+
+ Dúvidas? [me chame no discord](https://discord.com/users/PeachCumPrincess#2371)
