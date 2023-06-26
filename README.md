@@ -8,4 +8,4 @@
  
  ## Em estágios iniciais!!
 
- Dúvidas? [me chame no discord](https://discord.com/users/PeachCumPrincess#2371)
+ Dúvidas? me chame no discord: PeachCumPrincess#2371
