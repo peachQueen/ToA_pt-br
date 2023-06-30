@@ -6,6 +6,9 @@ Versão base do game para tradução: ``0.3.32.0``
 
 ## Aviso
 
+STATUS: ``QUEBRADO`` \
+Essa tradução não está 100% completa e o uso dela pode **quebrar o seu jogo**, por isso, crie um novo jogo se desejar testar.
+
 Essa tradução foi feita em sua maioria utilizando a biblioteca [argos-translate](https://github.com/argosopentech/argos-translate) por meio da ferramenta [jsontt](https://github.com/mololab/json-translator) e revisada por [mim](https://github.com/peachQueen).
 
 A biblioteca utilizada não possui tradução para o português brasileiro, portanto, foi traduzido para o português de Portugal e revisado para o brasileiro. Dito isso, podem haver alguns erros gramaticais, e, neste caso, você pode ajudar abrindo uma issue ou fazendo uma pull request.
