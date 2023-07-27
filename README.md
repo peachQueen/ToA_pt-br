@@ -35,3 +35,7 @@ A estrutura de arquivos deve se parecer com essa:
        ┗ 📂/translation
           ┗ 📜strings.properties</pre>
 ```
+
+## Como contribuir
+
+Veja aqui [como contribuir](contribuir/contribuir.md)
